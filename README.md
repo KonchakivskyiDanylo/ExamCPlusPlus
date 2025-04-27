@@ -27,3 +27,5 @@ This repository contains my final project for the C++ Object-Oriented Programmin
 ## Implementation
 
 This repository contains the implementation of all components listed in the task description, following object-oriented programming principles and best practices in C++.
+
+## Current Evaluation: TBD (Not yet evaluated)
